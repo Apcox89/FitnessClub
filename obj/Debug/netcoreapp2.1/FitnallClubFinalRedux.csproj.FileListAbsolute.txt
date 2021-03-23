@@ -1,0 +1,10 @@
+/Users/apcox/Projects/FitnallClubFinalRedux/FitnallClubFinalRedux/bin/Debug/netcoreapp2.1/FitnallClubFinalRedux.deps.json
+/Users/apcox/Projects/FitnallClubFinalRedux/FitnallClubFinalRedux/bin/Debug/netcoreapp2.1/FitnallClubFinalRedux.runtimeconfig.json
+/Users/apcox/Projects/FitnallClubFinalRedux/FitnallClubFinalRedux/bin/Debug/netcoreapp2.1/FitnallClubFinalRedux.runtimeconfig.dev.json
+/Users/apcox/Projects/FitnallClubFinalRedux/FitnallClubFinalRedux/bin/Debug/netcoreapp2.1/FitnallClubFinalRedux.dll
+/Users/apcox/Projects/FitnallClubFinalRedux/FitnallClubFinalRedux/bin/Debug/netcoreapp2.1/FitnallClubFinalRedux.pdb
+/Users/apcox/Projects/FitnallClubFinalRedux/FitnallClubFinalRedux/obj/Debug/netcoreapp2.1/FitnallClubFinalRedux.csprojAssemblyReference.cache
+/Users/apcox/Projects/FitnallClubFinalRedux/FitnallClubFinalRedux/obj/Debug/netcoreapp2.1/FitnallClubFinalRedux.AssemblyInfoInputs.cache
+/Users/apcox/Projects/FitnallClubFinalRedux/FitnallClubFinalRedux/obj/Debug/netcoreapp2.1/FitnallClubFinalRedux.AssemblyInfo.cs
+/Users/apcox/Projects/FitnallClubFinalRedux/FitnallClubFinalRedux/obj/Debug/netcoreapp2.1/FitnallClubFinalRedux.dll
+/Users/apcox/Projects/FitnallClubFinalRedux/FitnallClubFinalRedux/obj/Debug/netcoreapp2.1/FitnallClubFinalRedux.pdb
